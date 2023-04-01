@@ -30,8 +30,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/qr-code-component-z4XG4FXS1Q)
+- Live Site URL: [FrontendMentor-QR-Code-Component](https://a-costas.github.io/FrontendMentor-QR-Code-Component/)
 
 ## My process
 
